@@ -1,1 +1,1 @@
-Alura Project - CINFLIX.
+Alura Project - CINFLIX @ cinflix.vercel.app.

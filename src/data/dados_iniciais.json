@@ -1,53 +1,52 @@
 {
   "categorias": [
     {
-      "titulo": "Music Videos",
+      "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#000",
+      "fontColor": "#c5d2d6",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "The Road is Lonsome",
-          "url": "https://www.youtube.com/watch?v=ahPieysMj9w"
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
         {
-          "titulo": "I Don't Wanna Dance",
-          "url": "https://www.youtube.com/watch?v=JM8yToraPwg&list=LLCyYOFPOQ5zqS_QxA0eiuqQ&index=2&t=0s"
+          "titulo": "SEO com React",
+          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
         },
         {
-          "titulo": "Smile",
-          "url": "https://www.youtube.com/watch?v=0WxDrVUrSvI"
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
         },
         {
-          "titulo": "Big Yellow Taxi",
-          "url": "https://www.youtube.com/watch?v=94bdMSCdw20"
+          "titulo": "Pare de chutar e aprenda a display: inline #01",
+          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
         },
         {
-          "titulo": "Enjoy The Silence",
-          "url": "https://www.youtube.com/watch?v=pm3bPZ6W5fw"
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
         },
         {
-          "titulo": "The Goonies 'r' Good Enough ",
-          "url": "https://www.youtube.com/watch?v=LxLhytQ67fs"
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
         },
         {
-          "titulo": "What Took You So Long",
-          "url": "https://www.youtube.com/watch?v=yX1Df_sjdzY"
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
         },
         {
-          "titulo": "Linger",
-          "url": "https://www.youtube.com/watch?v=G6Kspj3OO0s"
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
         }        
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Back End",
       "cor": "#000",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -77,7 +76,6 @@
       "titulo": "Data Science e Inteligência Artificial",
       "cor": "#000",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
@@ -125,7 +123,6 @@
       "titulo": "Games",
       "cor": "#000",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -155,7 +152,6 @@
       "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#000",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [

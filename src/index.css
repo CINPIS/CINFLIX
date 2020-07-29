@@ -5,17 +5,19 @@
 :root {
   --primary: #83C4C9;
   --black: #000000;
-  --blackLighter: #9E9E9E;
+  --blackLighter: #000000;
   --grayLight: #F5F5F5;
   --grayMedium: #dbd9db; 
-  --white: #FFFFFF;
-  --frontEnd: #6BD1FF;
+  --white: #c5d2d6;
+  --frontEnd: #363e42;
   --backEnd: #00C86F;
+  --bg: #151616;
 }
 html,
 body {
   margin: 0;
   padding: 0;
+  background-color: var(--bg);
 }
 a {
   color: inherit;

@@ -9,7 +9,7 @@ return(
 
 
         <Link to="/cadastro/categoria">
-            Add a Category/Video Classification
+            Add a Category
         </Link>
     </PageRoot>
 );

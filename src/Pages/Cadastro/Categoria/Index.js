@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import PageRoot from '../../../Components/PageRoot/Index';
 import { Link } from 'react-router-dom';
 import FormField from '../../../Components/FormField/index';
+import Button from '../../../Components/Button/Index';
 
 function CadastroCategoria(){
 
@@ -60,25 +61,25 @@ return(
                 value={values.description}
                 onChange={handleChange}
             />  
-
+            {/** 
             <FormField 
                 label="Color: "
                 type="color"
                 name="color"
                 value={values.color}
                 onChange={handleChange}
-            />
+            />*/}
 
       
-            <button>
+            <Button>
                 Register
-            </button>
+            </Button>
         </form>
 
         <ul>
             {categories.map((category, indice) => {
                 return(
-                    <li key={`${category} ${indice}`}>
+                    <li key={`${category.name} ${indice}`}>
                         {category.name}
                     </li>
                 );
